@@ -7,7 +7,12 @@ replace github.com/apache/thrift => github.com/apache/thrift v0.13.0
 require (
 	github.com/cloudwego/gopkg v0.1.4-0.20241217093255-8980b14172b7
 	github.com/cloudwego/kitex v0.12.2
+	github.com/cloudwego/kitex-examples/bizdemo/kitex_gorm v0.0.0-20241230063757-6784eedd6b47
+	github.com/cloudwego/kitex-examples/bizdemo/kitex_gorm_gen v0.0.0-20241230063757-6784eedd6b47
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250218072853-8bde660e24b2
+	gorm.io/driver/mysql v1.5.7
+	gorm.io/gen v0.3.26
+	gorm.io/gorm v1.25.12
 )
 
 require (
@@ -47,14 +52,17 @@ require (
 	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	golang.org/x/arch v0.2.0 // indirect
-	golang.org/x/net v0.24.0 // indirect
+	golang.org/x/mod v0.17.0 // indirect
+	golang.org/x/net v0.25.0 // indirect
 	golang.org/x/sync v0.11.0 // indirect
-	golang.org/x/sys v0.19.0 // indirect
+	golang.org/x/sys v0.20.0 // indirect
 	golang.org/x/text v0.22.0 // indirect
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	google.golang.org/genproto v0.0.0-20210513213006-bf773b8c8384 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	gorm.io/driver/mysql v1.5.7 // indirect
+	gorm.io/datatypes v1.1.1-0.20230130040222-c43177d3cf8c // indirect
 	gorm.io/driver/sqlite v1.5.7 // indirect
-	gorm.io/gorm v1.25.12 // indirect
+	gorm.io/hints v1.1.0 // indirect
+	gorm.io/plugin/dbresolver v1.5.3 // indirect
 )
