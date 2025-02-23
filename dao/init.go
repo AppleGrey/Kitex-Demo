@@ -1,7 +1,7 @@
 package dao
 
-import "github.com/cloudwego/kitex-examples/bizdemo/kitex_gorm/dao/mysql"
+import "github.com/AppleGrey/Kitex-Demo/dao/mysql"
 
-func init() {
+func Init() {
 	mysql.Init()
 }

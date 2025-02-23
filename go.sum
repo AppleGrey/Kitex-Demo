@@ -33,8 +33,6 @@ github.com/cloudwego/kitex v0.12.2 h1:lW1I+MYodi4oMTefoPGtTQ5GIOM9tCKY1viuLaG2li
 github.com/cloudwego/kitex v0.12.2/go.mod h1:qaga++QJygpXxmsc3j7/A4qwvAEL220AxLX4I7RCDXI=
 github.com/cloudwego/kitex-examples/bizdemo/kitex_gorm v0.0.0-20241230063757-6784eedd6b47 h1:mkqHu/28uO4QtsG+YFf9JIV58P7W20qs5zNlKS1QKqM=
 github.com/cloudwego/kitex-examples/bizdemo/kitex_gorm v0.0.0-20241230063757-6784eedd6b47/go.mod h1:hO4N9rnGFrxhjH3bM/PVU5V0qfwtK0T8+XUoV8Q21Ao=
-github.com/cloudwego/kitex-examples/bizdemo/kitex_gorm_gen v0.0.0-20241230063757-6784eedd6b47 h1:Ufq2mWMeqh3x+WApUMjVBox39NoMzJtT+zBuez3xyds=
-github.com/cloudwego/kitex-examples/bizdemo/kitex_gorm_gen v0.0.0-20241230063757-6784eedd6b47/go.mod h1:pU241Fdw+ISkhF1f1tAcZP0x5DizcB/zUKse5aDZuVY=
 github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250218072853-8bde660e24b2 h1:lcOl2cOza0s+AJH/Ca4uYCIk2uRs9LiwRMeEKxG7vMQ=
 github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250218072853-8bde660e24b2/go.mod h1:OP63V8YwwSlPVFqHZblV3mJXLPIjcIdwkT6ZYjEggcI=
 github.com/cloudwego/localsession v0.1.2 h1:RBmeLDO5sKr4ujd8iBp5LTMmuVKLdu88jjIneq/fEZ8=

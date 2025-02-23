@@ -8,11 +8,11 @@ require (
 	github.com/cloudwego/gopkg v0.1.4-0.20241217093255-8980b14172b7
 	github.com/cloudwego/kitex v0.12.2
 	github.com/cloudwego/kitex-examples/bizdemo/kitex_gorm v0.0.0-20241230063757-6784eedd6b47
-	github.com/cloudwego/kitex-examples/bizdemo/kitex_gorm_gen v0.0.0-20241230063757-6784eedd6b47
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250218072853-8bde660e24b2
 	gorm.io/driver/mysql v1.5.7
 	gorm.io/gen v0.3.26
 	gorm.io/gorm v1.25.12
+	gorm.io/plugin/dbresolver v1.5.3
 )
 
 require (
@@ -64,5 +64,4 @@ require (
 	gorm.io/datatypes v1.1.1-0.20230130040222-c43177d3cf8c // indirect
 	gorm.io/driver/sqlite v1.5.7 // indirect
 	gorm.io/hints v1.1.0 // indirect
-	gorm.io/plugin/dbresolver v1.5.3 // indirect
 )
